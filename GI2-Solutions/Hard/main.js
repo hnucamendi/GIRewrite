@@ -2,9 +2,11 @@
 
 /**
  * HARD:
- * Create two buttons, one that turns the background color red when clicked.
- * The other, when clicked, turns the body's background color blue.
+ * Create two buttons in an HTML file and link it to this JavaScript file for this to work.
+ * one button turns the background color of its button square to red when clicked.
+ * The other button turns the background color to blue when clicked.
  *
+ * No functions for required, use the DOM
  */
 
 const buttonOne = document.querySelector(".button-one");

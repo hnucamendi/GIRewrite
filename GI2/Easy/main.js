@@ -3,19 +3,14 @@
 /**
  * EASY:
  * Write a function that takes in an array of numbers and outputs the average of all the numbers.
+ * Equation: sum of all variables / amount of variables
  *
- * @param {Array} nums - Array of numbers
+ * @param {number[]} nums - Array of numbers
  * @param {number} sum - Calculated sum
  * @returns {number} Calculated average
  */
 
-const calculateAverage = (nums) => {
-  let sum = 0;
-  for (let n of nums) {
-    sum += n;
-  }
-  return sum / nums.length;
-};
+//Write code below this comment
 
 console.log(calculateAverage([1, 4, 7])); // Output: 4
 
