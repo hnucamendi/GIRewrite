@@ -20,24 +20,22 @@
  *
  */
 
-const coinCounter = (coins, target) => {
-  coins.sort((a, b) => a - b);
-  let minCoins = 0;
-  while (target > 0) {
-    for (let i = coins.length - 1; i > -1; i--) {
-      if (coins[i] <= target) {
-        target -= coins[i];
-        minCoins += 1;
-        break;
-      }
-      if (i === 0 && coins[i] > target) {
-        return -1;
-      }
+/**
+ * @param {number[]} coins
+ * @param {number} amount
+ * @return {number}
+ */
+var coinChange = function (coins, amount) {
+  current = Array(amount + 1).fill(Infinity);
+  current[0] = 0;
+
+  for (c of coins) {
+    for (let i = c; i <= amount; i++) {
+      current[i] = Math.min(current[i], current[i - c] + 1);
     }
   }
-  return minCoins;
+  return current[amount] === Infinity ? -1 : current[amount];
 };
-
 // console.log(coinCounter([1, 2, 5], 11));
 // console.log(coinCounter([2], 3));
 // console.log(coinCounter([0], 3)); brokens
