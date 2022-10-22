@@ -3,7 +3,6 @@
 - [Guided Inquiry: JavaScript Week 2 | Medium](#guided-inquiry-javascript-week-2--medium)
 - [MEDIUM:](#medium)
 - [Submission](#submission)
-  ``
 
 # MEDIUM:
 

@@ -32,7 +32,7 @@ Udemy Video: The Complete JavaScript Course
 
 Please push your completed project to a repository on Github. Provide the link to your repo.
 
-## EASY:
+## [EASY](./GI2/Easy/):
 
 Write a function that takes in an array of numbers and outputs the average of all the numbers.
 
@@ -48,7 +48,7 @@ calculateAverage([10, 5]) // Output: 7.5
 calculateAverage([1.5, 3, 2.5, 1]) // Output: 2
 ```
 
-## MEDIUM:
+## [MEDIUM](./GI2/Medium/):
 
 Suppose an array of numbers with a random order of numbers unknown to you beforehand. You are given a target value to search for. If found in the array return its `index`, otherwise return `-1`. You may assume no duplicate exists in the array.
 
@@ -68,13 +68,13 @@ const findTarget = function(array, target) {...}
 findTarget([4,5,6,7,0,1,2], 3) // Output: -1
 ```
 
-## HARD:
+## [HARD](./GI2/Hard/):
 
 Create two buttons in an HTML file and link it to this JavaScript file for this to work. one button turns the background color of its button square to `red` when clicked. The other button turns the background color to `blue` when clicked.
 
 Note: No functions for required, use the DOM
 
-## VERY HARD:
+## [VERY HARD](./GI2/Very%20Hard/):
 
 You are given coins of different denominations and a total amount of money amount. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.
 
