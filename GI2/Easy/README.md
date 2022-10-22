@@ -1,9 +1,6 @@
 # Guided Inquiry: JavaScript Week 2 | EASY
 
-## Table of Contents
-
 - [Guided Inquiry: JavaScript Week 2 | EASY](#guided-inquiry-javascript-week-2--easy)
-  - [Table of Contents](#table-of-contents)
 - [EASY:](#easy)
 - [Submission](#submission)
 

@@ -1,10 +1,9 @@
 # Guided Inquiry: JavaScript Week 2 | Very Hard
 
-## Table of Contents
-
 - [Guided Inquiry: JavaScript Week 2 | Very Hard](#guided-inquiry-javascript-week-2--very-hard)
-  - [Table of Contents](#table-of-contents)
+
   - [VERY HARD:](#very-hard)
+
 - [Submission](#submission)
 
 ## VERY HARD:

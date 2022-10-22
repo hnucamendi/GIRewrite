@@ -1,9 +1,6 @@
 # Guided Inquiry: JavaScript Week 2
 
-## Table of Contents
-
 - [Guided Inquiry: JavaScript Week 2](#guided-inquiry-javascript-week-2)
-  - [Table of Contents](#table-of-contents)
 - [Learning Objectives](#learning-objectives)
 - [Learning Resources](#learning-resources)
 - [Challenges](#challenges)

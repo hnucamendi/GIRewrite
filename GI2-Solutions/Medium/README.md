@@ -1,9 +1,6 @@
 # Guided Inquiry: JavaScript Week 2 | Medium
 
-## Table of Contents
-
 - [Guided Inquiry: JavaScript Week 2 | Medium](#guided-inquiry-javascript-week-2--medium)
-  - [Table of Contents](#table-of-contents)
 - [MEDIUM:](#medium)
 - [Submission](#submission)
   ``
